@@ -1,0 +1,14 @@
+.h1{color:blue}
+.p{color:red}
+#p1{background-color: tomato;color: black;font-weight: bold;}
+#p2{background-color: orange;color: black;font-weight: bold;}
+#p3{background-color: dodgerblue;color: black;font-weight: bold;}
+#p4{background-color: mediumseagreen;color: black;font-weight: bold;}
+#p5{background-color: gray;color: black;font-weight: bold;}
+#p6{background-color: slateblue;color: black;font-weight: bold;}
+#p7{background-color: violet;color: black;font-weight: bold;}
+#p8{background-color: lightgrey;color: black;font-weight: bold;}
+.b1{border-style: solid;border-color: orange;font-weight: bold;}
+.b2{border-style: solid;border-color: dodgerblue;font-weight: bold;}
+.b3{border-style: solid;border-color: violet;font-weight: bold;}
+table, th, td {border: 1px solid;}
